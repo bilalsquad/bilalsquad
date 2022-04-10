@@ -45,6 +45,7 @@
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
+															  
 </p>
 
 ### 👉 Developpement Front 
@@ -57,8 +58,20 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
+	&emsp;													  
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/Angular-red?style=plastic&logo=angular&logoColor=white"">
+  </a> 														  
+														  
 </p>
-
+	
+### 👉 Developpement Back	
+<p align="center"> 	
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/PHP-red?style=plastic&logo=php&logoColor=white"">
+  </a> 
+												     </p>
+												     
  ### 👉 Outils 
  
 <p align="center">
