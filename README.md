@@ -10,10 +10,12 @@
 - :thinking: En recherche d'un stage et d'une alternance en cybersecurité
 
 ## Mes Profils de Compétiteur 
-<div style="display: inline-block;	    background : green, ">
+<div style="background:green;">
+<p  align="center">
 <a href="https://www.codingame.com/profile/1606d82357fed832e310eb9027fdc49b7517864" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
 </p>
-<a href="https://www.root-me.org/TheB1ls?inc=contact&lang=fr" ><img src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509" alt="Codingame" width="100" height="50">
+<p  align="center">
+<a href="https://www.root-me.org/TheB1ls?inc=contact&lang=fr" ><img src="https://www.root-me.org/logo-rootme-rvb-white.png" alt="Codingame" width="100" height="50">
 </p>
 </div>
 
